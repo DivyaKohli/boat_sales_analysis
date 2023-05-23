@@ -1,4 +1,4 @@
-# boat_sales_analysis
+# Boat_sales_analysis
 This project aims to analyze and visualize trends in boat sales, helping the company understand customer demands in the field of boats. The project utilizes Excel for visualization and Tableau Prep for ETL (Extract, Transform, Load) processes.
 
 ## Dataset Information
