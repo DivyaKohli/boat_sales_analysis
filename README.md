@@ -31,7 +31,7 @@ The project utilizes the following tools and technologies:
 
 ## Usage
 To use this project, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/boat-sales-analysis.git`
+1. Clone the repository: `git clone https://github.com/DivyaKohli/boat-sales-analysis.git`
 2. Set up the necessary dependencies and tools (Excel and Tableau Prep).
 3. Download the dataset from the Kaggle source mentioned above and place it in the appropriate directory.
 4. Open the Excel file to explore the visualizations and analysis.
